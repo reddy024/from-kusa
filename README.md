@@ -4,7 +4,7 @@ It is famous because it's **Richness** coming from Ages
 **Good hospitality** and well caring for **Customers**
 
 <!--orderred list-->
------
+****
 1.Birayani Patnam house
   i.CHICKEN ITEMS
     a.chicken tikka
@@ -17,4 +17,13 @@ It is famous because it's **Richness** coming from Ages
   ii.MUTTON ITEMS
     a.mutton paya
     b.Mutton vepudu
+
+<!--unordered list-->
+places to visit near restaurent
+* Hyderabad
+    * Tankbund
+    * charminar
+    * secreteriat
+    * hitec-city
+
 
