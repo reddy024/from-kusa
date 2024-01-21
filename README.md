@@ -6,7 +6,7 @@ It is famous because it's **Richness** coming from Ages
 <!--orderred list-->
 ****
 1.Birayani Patnam house
-  <li>i.CHICKEN ITEMS</li>
+  i.CHICKEN ITEMS
     <li>a.chicken tikka</li>
     <li>b.chicken 65</li>
     <li>c.fried chicken</li>
@@ -15,8 +15,8 @@ It is famous because it's **Richness** coming from Ages
     <li>f.Gongura chicken</li>
     <li>G.Raju gari special chicken</li>
   ii.MUTTON ITEMS
-    a.mutton paya
-    b.Mutton vepudu
+   <li> a.mutton paya</li>
+    <li>b.Mutton vepudu</li>
 
 <!--unordered list-->
 places to visit near restaurent
