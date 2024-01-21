@@ -6,7 +6,7 @@ It is famous because it's **Richness** coming from Ages
 <!--orderred list-->
 ****
 1.Birayani Patnam house
-  i.CHICKEN ITEMS
+  <br>i.CHICKEN ITEMS </br>
     a.chicken tikka
     b.chicken 65
     c.fried chicken
