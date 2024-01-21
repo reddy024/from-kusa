@@ -17,12 +17,12 @@ It is famous because it's **Richness** coming from Ages
     <li>f.Gongura chicken</li>
     <li>G.Raju gari special chicken</li>
 
-  ii.MUTTON ITEMS
+  <!--ii.MUTTON ITEMS
     <li> a.mutton paya</li>
     <li>b.Mutton vepudu</li>
 
 <!--unordered list-->
-places to visit near restaurent
+Places to visit near restaurent
 * Hyderabad
     * Tankbund
     * charminar
