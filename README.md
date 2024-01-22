@@ -20,7 +20,7 @@ It is famous because it's **Richness** coming from Ages
 
 <!--unordered list-->
 Places to visit near restaurent
-* Hyderabad
+    * Mindspace
     * Tankbund
     * charminar
     * secreteriat
