@@ -19,7 +19,7 @@ It is famous because it's **Richness** coming from Ages
    
 
 <!--unordered list-->
-Places to visit near restaurent
+Places visit near restaurent
  *  Mindspace
  *  Tankbund
  *  charminar
