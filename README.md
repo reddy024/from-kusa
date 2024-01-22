@@ -9,13 +9,13 @@ It is famous because it's **Richness** coming from Ages
 ****
 
  # Birayani Patnam house
-   .chicken tikka.
-   . chicken 65
-   .fried chicken
-   .Chicken biryani
-   .Chicken hyderabad dum biryani
-   .Gongura chicken
-   .Special chicken
+ chicken tikka
+ chicken 65
+ fried chicken
+ Chicken biryani
+ Chicken hyderabad dum biryani
+ Gongura chicken
+ Special chicken
    
 
 <!--unordered list-->
