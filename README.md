@@ -20,10 +20,10 @@ It is famous because it's **Richness** coming from Ages
 
 <!--unordered list-->
 Places to visit near restaurent
-    *  Mindspace
-    *  Tankbund
-    *  charminar
-    *  secreteriat
-    *  hitec-city
+ *  Mindspace
+ *  Tankbund
+ *  charminar
+ *  secreteriat
+ *  hitec-city
 
 
