@@ -43,11 +43,11 @@ Places visit near restaurent
  --------------------
  ## Inspiring Quotes
 
- > "The only way to do great work is to love what you do."
- > - *Steve Jobs*
+ > "You have within you right now, everything you need to deal with whatever the world can throw at you."
+ > - *robin sharma*
 
- > "In three words I can sum up everything I've learned about life: it goes on."
- > - *Robert Frost*
+ > "The secret of getting ahead is getting started."
+ > - *amish tripathi*
 
 
 
