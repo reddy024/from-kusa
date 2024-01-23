@@ -49,9 +49,8 @@ Places visit near restaurent
  > "The secret of getting ahead is getting started."
  > - *amish tripathi*
 
+------------------
+# Code Fencing with Node.js
 
-
-
-
-
-
+const greeting = "Hello, World!";
+console.log(greeting);
