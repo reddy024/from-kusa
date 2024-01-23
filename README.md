@@ -29,15 +29,27 @@ Places visit near restaurent
  This link will be redirected to [MyMedia page](MyMedia.md)
 
 
- -----------
+ --------------------
 
- ## SONG TABLE
+ ## Song Table
 
  | Song name   | Reason               | Recommendated to |
  | :---        | :----:               |             ---: | 
  | Alone       |explains being single |             sanju|
  | mockingbird | story of individual  |             sam  |
  | as it was   | reflects good pop    |            power |
+
+
+ --------------------
+ ## Inspiring Quotes
+
+ > "The only way to do great work is to love what you do."
+ > - *Steve Jobs*
+
+ > "In three words I can sum up everything I've learned about life: it goes on."
+ > - *Robert Frost*
+
+
 
 
 
