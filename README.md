@@ -52,5 +52,8 @@ Places visit near restaurent
 ------------------
 # Code Fencing with Node.js
 
-const greeting = "Hello, World!";
-console.log(greeting);
+```
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+```
+Link to source code is <https://code.pieces.app/collections/sql>
