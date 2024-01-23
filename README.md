@@ -31,7 +31,7 @@ Places visit near restaurent
 
  -----------
 
- ## Songs Table
+ ## SONG TABLE
 
  | Song name   | Reason               | Recommendated to |
  | :---        | :----:               |             ---: | 
