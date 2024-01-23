@@ -29,11 +29,15 @@ Places visit near restaurent
  This link will be redirected to [MyMedia page](MyMedia.md)
 
 
- ----
+ -----------
 
  ## Songs Table
- | Song name | | Reason | | Recommendation |
 
+ | Song name   | Reason               | Recommendated to |
+ | :---        | :----:               |             ---: | 
+ | Alone       |explains being single |             sanju|
+ | mockingbird | story of individual  |             sam  |
+ | as it was   | reflects good pop    |            power |
 
 
 
