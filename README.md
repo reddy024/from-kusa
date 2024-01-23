@@ -26,4 +26,7 @@ Places visit near restaurent
  *  secreteriat
  *  hitec-city
 
+ This link will be redirected to [MyMedia page](MyMedia.md)
+
+
 
